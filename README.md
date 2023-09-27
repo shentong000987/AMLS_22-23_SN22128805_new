@@ -1,3 +1,5 @@
+This is the final version of project, the previous temporary version can be access from: https://github.com/shentong000987/AMLS_22-23_SN22128805
+
 PART1 - brief description of the organization of project
 
 This Project is designed to complete the ELEC0134 AMLS Coursework (22-23)
